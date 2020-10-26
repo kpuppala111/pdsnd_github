@@ -1,11 +1,11 @@
 ### Date created
-Include the date you created this project and README file.
+October 25th, 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Gather stats for 3 major cities on their bikeshare usages
 
 ### Files used
 Include the files used
