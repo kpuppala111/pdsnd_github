@@ -10,6 +10,8 @@ statistics on the most frequent times of travel
 statistics on the total and average trip duration
 statistics on bikeshare users
 
+This also shows the detailed records if the users chooses to do so
+
 ### Files used
 bikeshare.py
 
