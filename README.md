@@ -2,7 +2,7 @@
 October 25th, 2020
 
 ### Project Title
-BikeShare Project
+BikeShare Project for three major cities
 
 ### Description
 This project is used to analyze bikeshare data from three major cities (Chicago/New York/Washington DC). User can analyze data for a specific city and for a specific month and/or day Of Week based on their choice. There are various statistics that are captured as mentioned below:

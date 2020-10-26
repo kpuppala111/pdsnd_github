@@ -222,7 +222,7 @@ def user_stats(df):
 
     # Display counts of gender
     if 'Gender' not in df:
-        print('NOTE: Gender data of users is not available for this city.')
+        print('NOTE: Gender data of users is not available for this city !!')
     else:
         gender_of_users = df.groupby('Gender', as_index=False).count()
         print('Count by Gender:')
@@ -231,7 +231,7 @@ def user_stats(df):
         print(gender)
         print('-----------------------')
 
-        print('NOTE: Gender data for {} users is not available.\n'.format(
+        print('NOTE: Gender data for {} users is not available !!\n'.format(
             len(df) - gender_of_users['Start Time'][0] - gender_of_users['Start Time'][1]))
 
     # Display earliest, most recent, and most common year of birth
